@@ -13,7 +13,8 @@ Este projeto é resultado da atividade prática proposta no bootcamp Potência T
   
 ## 📌 Desafio
 
-** Desafio Classificador de nível de Herói **
+**Desafio Classificador de nível de Herói**
+
 O que deve ser utilizado
 
 - Variáveis
@@ -21,7 +22,7 @@ O que deve ser utilizado
 - Laços de repetição
 - Estruturas de decisões
 
-** Objetivo **
+**Objetivo**
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar algumas das mensagens abaixo:
 
@@ -37,6 +38,5 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 Ao final deverá ser exibida uma mensagem: "O Herói de nome {nome} está no nível de {nivel} "
 
----
 Créditos 
 - Felipe Aguiar - Tech Educator at DIO 
