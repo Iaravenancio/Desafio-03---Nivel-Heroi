@@ -2,7 +2,8 @@
 
 Este projeto é resultado da atividade prática proposta no bootcamp Ri Happy - Front-end do Zero da DIO (Digital Innovation One). Ao realizar este projeto, adaptei meus conhecimentos em HTML5, CSS3 e JavaScript para enfrentar o desafio proposto, adicionando elementos gráficos.
 
-![Uploading image.png…]()
+<img width="1892" height="864" alt="image" src="https://github.com/user-attachments/assets/131b27e2-8612-4d9b-863c-8359034a4b36" />
+
 
 
 ## 🛠️ Tecnologias
